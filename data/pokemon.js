@@ -1059,3 +1059,5 @@ export const pokemonArray = [
 ];
 
 export default pokemonArray;
+
+
